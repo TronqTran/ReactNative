@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, TextInput } from 'react-native';
 
-const App = () => {
+const Screen3 = () => {
   return (
     
     <View style={styles.container}>
@@ -78,4 +78,4 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   }
 });
-export default App;
+export default Screen3;

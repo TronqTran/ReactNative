@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-const App = () => {
+const Screen2 = () => {
   return (
     
     <View style={styles.container}>
@@ -94,4 +94,4 @@ const styles = StyleSheet.create({
     color: 'black',
   },
 });
-export default App;
+export default Screen2;

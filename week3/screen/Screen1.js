@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-const App = () => {
+const Screen1 = () => {
   return (
     <View style={styles.container}>
       <View style={styles.logoContainer}>
@@ -83,4 +83,4 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
 });
-export default App;
+export default Screen1;
